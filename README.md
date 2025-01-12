@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yash Hirpara</h1>
-<h3 align="center">A passionate SpringBoot developer from India</h3>
+👋 I’m Yash Hirpara (@YashHirpara0306).  
+🎓 Final-year student at C.K. Pithawala College, specializing in Java & Spring Boot.  
+💻 Passionate about backend development, microservices, and scalable apps.  
+⚡ Proficient in HTML, CSS, JS, Python, and expert in Java.  
+📚 Currently improving my DSA skills in Java. Open to collaborations.
 
-- 🔭 I’m currently working on **REST API using Springboot**
-
-- 🌱 I’m currently learning **DSA using Java**
-
-- 📫 How to reach me **yashhirpara0306@gmail.com**
-
-- ⚡ Fun fact **i think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
