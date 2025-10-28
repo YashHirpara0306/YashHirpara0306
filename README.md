@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there 
 
 
-<h1 align="center">Hi 👋, I'm Yash Hirpara (@YashHirpara0306).</h1>
+<h1 align="center">Hi , I'm Yash Hirpara (@YashHirpara0306).</h1>
 
-🎓 Final-year student at C.K. Pithawala College, specializing in Java & Spring Boot.  
-💻 Passionate about backend development, microservices, and scalable apps.  
-⚡ Proficient in HTML, CSS, JS, Python, and expert in Java.  
-📚 Currently improving my DSA skills in Java. Open to collaborations.
+Final-year student at C.K. Pithawala College, specializing in Java & Spring Boot.  
+Passionate about backend development, microservices, and scalable apps.  
+Proficient in HTML, CSS, JS, Python, and expert in Java.  
+Currently improving my DSA skills in Java. Open to collaborations.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
