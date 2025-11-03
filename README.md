@@ -15,9 +15,6 @@ secure, high-performance enterprise solutions.
   <a href="https://leetcode.com/u/yashhirpara0306/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="yashhirpara0306" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/yashh36" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/212748708-5c6a2b31-3b3d-4a7e-bfd3-bbba70d41e57.png" alt="yashh36" height="30" width="40" />
-  </a>
 </p>
 
 
