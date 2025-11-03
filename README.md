@@ -9,10 +9,17 @@ secure, high-performance enterprise solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hirpara-yash-041a702ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirpara-yash-041a702ba" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/yashhirpara0306/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yashh36" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Codeforces_logo.png" alt="codeforces" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/hirpara-yash-041a702ba" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirpara-yash-041a702ba" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/yashhirpara0306/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="yashhirpara0306" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/yashh36" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="yashh36" height="30" width="40" style="filter: invert(20%) sepia(80%) saturate(500%) hue-rotate(200deg) brightness(95%) contrast(90%);" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
