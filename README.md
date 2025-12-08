@@ -1,5 +1,3 @@
-## Hi there 
-
 
 <h1 align="center">Hi , I'm Yash Hirpara (@YashHirpara0306).</h1>
 Computer Engineering graduate skilled in Java, Spring Boot, and RESTful APIs for backend development. Experienced in
